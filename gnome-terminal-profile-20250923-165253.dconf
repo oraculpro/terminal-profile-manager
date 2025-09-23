@@ -1,0 +1,15 @@
+[/]
+background-color='rgb(34,34,34)'
+background-transparency-percent=8
+bold-is-bright=true
+foreground-color='rgb(226,226,226)'
+highlight-background-color='rgb(12,26,14)'
+highlight-colors-set=true
+highlight-foreground-color='rgb(70,156,33)'
+palette=['rgb(23,20,33)', 'rgb(192,28,40)', 'rgb(38,162,105)', 'rgb(162,115,76)', 'rgb(170,113,37)', 'rgb(163,71,186)', 'rgb(42,161,179)', 'rgb(208,207,204)', 'rgb(94,92,100)', 'rgb(246,97,81)', 'rgb(51,218,122)', 'rgb(233,173,12)', 'rgb(222,173,42)', 'rgb(192,97,203)', 'rgb(51,199,222)', 'rgb(255,255,255)']
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=true
+visible-name='новый (темный)'
+UUID=c34cc058-b734-43a7-9922-c85e0eda2f24
+VISIBLE_NAME=новый (темный)
